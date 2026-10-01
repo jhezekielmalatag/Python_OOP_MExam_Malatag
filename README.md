@@ -1,6 +1,6 @@
 # Python_OOP_MExam_Malatag
 
-**This project contains Python programs demonstrating Class Instances and Methods, Class Attributes and Shadowing, Encapsulation, Properties and Validation, Abstract and Independent Instances**
+**This project contains exercise 26-30 in Midterm Exam Part II. Class Instances and Methods, Class Attributes and Shadowing, Encapsulation, Properties and Validation, Abstract and Independent Instances**
 
 # Requirements
 - Python 3
