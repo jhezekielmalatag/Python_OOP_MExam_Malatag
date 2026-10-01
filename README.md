@@ -10,7 +10,3 @@
 2. Download or clone this repository.
 3. Open a terminal or command prompt.
 4. Navigate to the project folder.
-
-Author: John Hezekiel Z. Malatag
-BSCS - 2nd yr.
-NBS College
