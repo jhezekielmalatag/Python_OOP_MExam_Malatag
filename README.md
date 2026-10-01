@@ -4,6 +4,7 @@
 
 # Requirements
 - Python 3
+- No additional libraries are required.
 
 # How to Run
 1. Install Python 3 on your computer.
